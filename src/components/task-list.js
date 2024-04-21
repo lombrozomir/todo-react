@@ -9,7 +9,7 @@ const TaskList = ({ todoData }) => {
             textDescription={item.textDescription}
             textCreated={item.textCreated}
           />
-          <input type="text" className="edit" defaultValue="Editing tasksss" />
+          <input type="text" className="edit" defaultValue="Editing task" />
         </li>
       );
     } else {
