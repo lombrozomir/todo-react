@@ -12,7 +12,7 @@ export default class App extends Component {
         id: 1,
         className: 'completed',
         textDescription: 'Completed task',
-        textCreated: 'created 18 seconds ago',
+        textCreated: 'created 20 seconds ago',
       },
       {
         id: 2,
