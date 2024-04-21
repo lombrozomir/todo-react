@@ -6,7 +6,7 @@ const NewTaskForm = () => {
       <h1>Todos</h1>
       <input
         className="new-todo"
-        placeholder="What needs to be done?"
+        placeholder="What needs to be done?sss"
       />
     </header>
   );
